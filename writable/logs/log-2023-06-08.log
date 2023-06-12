@@ -1,0 +1,388 @@
+CRITICAL - 2023-06-08 07:23:14 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-06-08 07:25:10 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-06-08 14:13:18 --> Allowed fields must be specified for model: "App\Models\ModelPelanggan"
+in SYSTEMPATH\BaseModel.php on line 1242.
+ 1 SYSTEMPATH\BaseModel.php(1242): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\ModelPelanggan')
+ 2 SYSTEMPATH\BaseModel.php(757): CodeIgniter\BaseModel->doProtectFields([...])
+ 3 SYSTEMPATH\Model.php(730): CodeIgniter\BaseModel->insert([...], true)
+ 4 APPPATH\Controllers\Pelanggan.php(69): CodeIgniter\Model->insert([...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Pelanggan->simpan()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pelanggan))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-08 14:13:19 --> Allowed fields must be specified for model: "App\Models\ModelPelanggan"
+in SYSTEMPATH\BaseModel.php on line 1242.
+ 1 SYSTEMPATH\BaseModel.php(1242): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\ModelPelanggan')
+ 2 SYSTEMPATH\BaseModel.php(757): CodeIgniter\BaseModel->doProtectFields([...])
+ 3 SYSTEMPATH\Model.php(730): CodeIgniter\BaseModel->insert([...], true)
+ 4 APPPATH\Controllers\Pelanggan.php(69): CodeIgniter\Model->insert([...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Pelanggan->simpan()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pelanggan))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-08 14:13:19 --> Allowed fields must be specified for model: "App\Models\ModelPelanggan"
+in SYSTEMPATH\BaseModel.php on line 1242.
+ 1 SYSTEMPATH\BaseModel.php(1242): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\ModelPelanggan')
+ 2 SYSTEMPATH\BaseModel.php(757): CodeIgniter\BaseModel->doProtectFields([...])
+ 3 SYSTEMPATH\Model.php(730): CodeIgniter\BaseModel->insert([...], true)
+ 4 APPPATH\Controllers\Pelanggan.php(69): CodeIgniter\Model->insert([...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Pelanggan->simpan()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pelanggan))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-08 14:13:23 --> Allowed fields must be specified for model: "App\Models\ModelPelanggan"
+in SYSTEMPATH\BaseModel.php on line 1242.
+ 1 SYSTEMPATH\BaseModel.php(1242): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\ModelPelanggan')
+ 2 SYSTEMPATH\BaseModel.php(757): CodeIgniter\BaseModel->doProtectFields([...])
+ 3 SYSTEMPATH\Model.php(730): CodeIgniter\BaseModel->insert([...], true)
+ 4 APPPATH\Controllers\Pelanggan.php(69): CodeIgniter\Model->insert([...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Pelanggan->simpan()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pelanggan))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-08 14:13:23 --> Allowed fields must be specified for model: "App\Models\ModelPelanggan"
+in SYSTEMPATH\BaseModel.php on line 1242.
+ 1 SYSTEMPATH\BaseModel.php(1242): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\ModelPelanggan')
+ 2 SYSTEMPATH\BaseModel.php(757): CodeIgniter\BaseModel->doProtectFields([...])
+ 3 SYSTEMPATH\Model.php(730): CodeIgniter\BaseModel->insert([...], true)
+ 4 APPPATH\Controllers\Pelanggan.php(69): CodeIgniter\Model->insert([...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Pelanggan->simpan()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pelanggan))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-08 14:13:23 --> Allowed fields must be specified for model: "App\Models\ModelPelanggan"
+in SYSTEMPATH\BaseModel.php on line 1242.
+ 1 SYSTEMPATH\BaseModel.php(1242): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\ModelPelanggan')
+ 2 SYSTEMPATH\BaseModel.php(757): CodeIgniter\BaseModel->doProtectFields([...])
+ 3 SYSTEMPATH\Model.php(730): CodeIgniter\BaseModel->insert([...], true)
+ 4 APPPATH\Controllers\Pelanggan.php(69): CodeIgniter\Model->insert([...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Pelanggan->simpan()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pelanggan))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-08 14:13:24 --> Allowed fields must be specified for model: "App\Models\ModelPelanggan"
+in SYSTEMPATH\BaseModel.php on line 1242.
+ 1 SYSTEMPATH\BaseModel.php(1242): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\ModelPelanggan')
+ 2 SYSTEMPATH\BaseModel.php(757): CodeIgniter\BaseModel->doProtectFields([...])
+ 3 SYSTEMPATH\Model.php(730): CodeIgniter\BaseModel->insert([...], true)
+ 4 APPPATH\Controllers\Pelanggan.php(69): CodeIgniter\Model->insert([...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Pelanggan->simpan()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pelanggan))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-08 14:15:17 --> Allowed fields must be specified for model: "App\Models\ModelPelanggan"
+in SYSTEMPATH\BaseModel.php on line 1242.
+ 1 SYSTEMPATH\BaseModel.php(1242): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\ModelPelanggan')
+ 2 SYSTEMPATH\BaseModel.php(757): CodeIgniter\BaseModel->doProtectFields([...])
+ 3 SYSTEMPATH\Model.php(730): CodeIgniter\BaseModel->insert([...], true)
+ 4 APPPATH\Controllers\Pelanggan.php(69): CodeIgniter\Model->insert([...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Pelanggan->simpan()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pelanggan))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-08 14:15:18 --> Allowed fields must be specified for model: "App\Models\ModelPelanggan"
+in SYSTEMPATH\BaseModel.php on line 1242.
+ 1 SYSTEMPATH\BaseModel.php(1242): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\ModelPelanggan')
+ 2 SYSTEMPATH\BaseModel.php(757): CodeIgniter\BaseModel->doProtectFields([...])
+ 3 SYSTEMPATH\Model.php(730): CodeIgniter\BaseModel->insert([...], true)
+ 4 APPPATH\Controllers\Pelanggan.php(69): CodeIgniter\Model->insert([...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Pelanggan->simpan()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pelanggan))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-08 14:15:19 --> Allowed fields must be specified for model: "App\Models\ModelPelanggan"
+in SYSTEMPATH\BaseModel.php on line 1242.
+ 1 SYSTEMPATH\BaseModel.php(1242): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\ModelPelanggan')
+ 2 SYSTEMPATH\BaseModel.php(757): CodeIgniter\BaseModel->doProtectFields([...])
+ 3 SYSTEMPATH\Model.php(730): CodeIgniter\BaseModel->insert([...], true)
+ 4 APPPATH\Controllers\Pelanggan.php(69): CodeIgniter\Model->insert([...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Pelanggan->simpan()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pelanggan))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-08 14:15:19 --> Allowed fields must be specified for model: "App\Models\ModelPelanggan"
+in SYSTEMPATH\BaseModel.php on line 1242.
+ 1 SYSTEMPATH\BaseModel.php(1242): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\ModelPelanggan')
+ 2 SYSTEMPATH\BaseModel.php(757): CodeIgniter\BaseModel->doProtectFields([...])
+ 3 SYSTEMPATH\Model.php(730): CodeIgniter\BaseModel->insert([...], true)
+ 4 APPPATH\Controllers\Pelanggan.php(69): CodeIgniter\Model->insert([...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Pelanggan->simpan()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pelanggan))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-08 14:15:20 --> Allowed fields must be specified for model: "App\Models\ModelPelanggan"
+in SYSTEMPATH\BaseModel.php on line 1242.
+ 1 SYSTEMPATH\BaseModel.php(1242): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\ModelPelanggan')
+ 2 SYSTEMPATH\BaseModel.php(757): CodeIgniter\BaseModel->doProtectFields([...])
+ 3 SYSTEMPATH\Model.php(730): CodeIgniter\BaseModel->insert([...], true)
+ 4 APPPATH\Controllers\Pelanggan.php(69): CodeIgniter\Model->insert([...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Pelanggan->simpan()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pelanggan))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-08 14:15:20 --> Allowed fields must be specified for model: "App\Models\ModelPelanggan"
+in SYSTEMPATH\BaseModel.php on line 1242.
+ 1 SYSTEMPATH\BaseModel.php(1242): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\ModelPelanggan')
+ 2 SYSTEMPATH\BaseModel.php(757): CodeIgniter\BaseModel->doProtectFields([...])
+ 3 SYSTEMPATH\Model.php(730): CodeIgniter\BaseModel->insert([...], true)
+ 4 APPPATH\Controllers\Pelanggan.php(69): CodeIgniter\Model->insert([...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Pelanggan->simpan()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pelanggan))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-08 14:32:57 --> Unsupported operand types: string + int
+in APPPATH\Views\viewtampilpelanggan.php on line 106.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('viewtampilpelanggan', [], true)
+ 4 APPPATH\Controllers\Pelanggan.php(19): view('viewtampilpelanggan', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Pelanggan->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pelanggan))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-08 15:03:11 --> syntax error, unexpected token "endforeach", expecting end of file
+in APPPATH\Views\viewtampilpelanggan.php on line 111.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('viewtampilpelanggan', [], true)
+ 3 APPPATH\Controllers\Pelanggan.php(19): view('viewtampilpelanggan', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Pelanggan->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pelanggan))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-08 15:24:53 --> "bootstrap_pagination" is not a valid Pager template.
+in SYSTEMPATH\Pager\Pager.php on line 120.
+ 1 SYSTEMPATH\Pager\Pager.php(120): CodeIgniter\Pager\Exceptions\PagerException::forInvalidTemplate('bootstrap_pagination')
+ 2 SYSTEMPATH\Pager\Pager.php(83): CodeIgniter\Pager\Pager->displayLinks('default', 'bootstrap_pagination')
+ 3 APPPATH\Views\viewtampilpelanggan.php(121): CodeIgniter\Pager\Pager->links('default', 'bootstrap_pagination')
+ 4 SYSTEMPATH\View\View.php(213): include('C:\\xampp-2\\htdocs\\ci4go\\app\\Views\\viewtampilpelanggan.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('viewtampilpelanggan', [], true)
+ 7 APPPATH\Controllers\Pelanggan.php(30): view('viewtampilpelanggan', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Pelanggan->index()
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pelanggan))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-08 15:25:25 --> "bootstrap_pagination" is not a valid Pager template.
+in SYSTEMPATH\Pager\Pager.php on line 120.
+ 1 SYSTEMPATH\Pager\Pager.php(120): CodeIgniter\Pager\Exceptions\PagerException::forInvalidTemplate('bootstrap_pagination')
+ 2 SYSTEMPATH\Pager\Pager.php(83): CodeIgniter\Pager\Pager->displayLinks('default', 'bootstrap_pagination')
+ 3 APPPATH\Views\viewtampilpelanggan.php(120): CodeIgniter\Pager\Pager->links('default', 'bootstrap_pagination')
+ 4 SYSTEMPATH\View\View.php(213): include('C:\\xampp-2\\htdocs\\ci4go\\app\\Views\\viewtampilpelanggan.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('viewtampilpelanggan', [], true)
+ 7 APPPATH\Controllers\Pelanggan.php(30): view('viewtampilpelanggan', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Pelanggan->index()
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pelanggan))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-08 15:27:15 --> "bootstrap_pagination" is not a valid Pager template.
+in SYSTEMPATH\Pager\Pager.php on line 120.
+ 1 SYSTEMPATH\Pager\Pager.php(120): CodeIgniter\Pager\Exceptions\PagerException::forInvalidTemplate('bootstrap_pagination')
+ 2 SYSTEMPATH\Pager\Pager.php(83): CodeIgniter\Pager\Pager->displayLinks('default', 'bootstrap_pagination')
+ 3 APPPATH\Views\viewtampilpelanggan.php(120): CodeIgniter\Pager\Pager->links('default', 'bootstrap_pagination')
+ 4 SYSTEMPATH\View\View.php(213): include('C:\\xampp-2\\htdocs\\ci4go\\app\\Views\\viewtampilpelanggan.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('viewtampilpelanggan', [], true)
+ 7 APPPATH\Controllers\Pelanggan.php(35): view('viewtampilpelanggan', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Pelanggan->index()
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pelanggan))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-08 15:27:17 --> "bootstrap_pagination" is not a valid Pager template.
+in SYSTEMPATH\Pager\Pager.php on line 120.
+ 1 SYSTEMPATH\Pager\Pager.php(120): CodeIgniter\Pager\Exceptions\PagerException::forInvalidTemplate('bootstrap_pagination')
+ 2 SYSTEMPATH\Pager\Pager.php(83): CodeIgniter\Pager\Pager->displayLinks('default', 'bootstrap_pagination')
+ 3 APPPATH\Views\viewtampilpelanggan.php(120): CodeIgniter\Pager\Pager->links('default', 'bootstrap_pagination')
+ 4 SYSTEMPATH\View\View.php(213): include('C:\\xampp-2\\htdocs\\ci4go\\app\\Views\\viewtampilpelanggan.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('viewtampilpelanggan', [], true)
+ 7 APPPATH\Controllers\Pelanggan.php(35): view('viewtampilpelanggan', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Pelanggan->index()
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pelanggan))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-08 15:38:39 --> Call to a member function paginate() on array
+in APPPATH\Controllers\Pelanggan.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Pelanggan->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pelanggan))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-08 15:39:32 --> Call to a member function paginate() on array
+in APPPATH\Controllers\Pelanggan.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Pelanggan->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pelanggan))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-08 15:39:33 --> Call to a member function paginate() on array
+in APPPATH\Controllers\Pelanggan.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Pelanggan->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pelanggan))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-08 16:12:28 --> Unmatched '}'
+in APPPATH\Views\viewtampilpelanggan.php on line 119.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('viewtampilpelanggan', [], true)
+ 3 APPPATH\Controllers\Pelanggan.php(26): view('viewtampilpelanggan', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Pelanggan->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pelanggan))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-08 18:47:31 --> Call to a member function getCurrentPage() on array
+in APPPATH\Controllers\Pelanggan.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Pelanggan->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pelanggan))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-08 18:49:09 --> Undefined property: App\Controllers\Pelanggan::$model
+in APPPATH\Controllers\Pelanggan.php on line 22.
+ 1 APPPATH\Controllers\Pelanggan.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Pelanggan::$model', 'C:\\xampp-2\\htdocs\\ci4go\\app\\Controllers\\Pelanggan.php', 22)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Pelanggan->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pelanggan))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-08 18:51:46 --> Undefined variable $pencarian
+in APPPATH\Views\viewtampilpelanggan.php on line 29.
+ 1 APPPATH\Views\viewtampilpelanggan.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $pencarian', 'C:\\xampp-2\\htdocs\\ci4go\\app\\Views\\viewtampilpelanggan.php', 29)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp-2\\htdocs\\ci4go\\app\\Views\\viewtampilpelanggan.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('viewtampilpelanggan', [], true)
+ 5 APPPATH\Controllers\Pelanggan.php(40): view('viewtampilpelanggan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Pelanggan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pelanggan))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-08 18:51:47 --> Undefined variable $pencarian
+in APPPATH\Views\viewtampilpelanggan.php on line 29.
+ 1 APPPATH\Views\viewtampilpelanggan.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $pencarian', 'C:\\xampp-2\\htdocs\\ci4go\\app\\Views\\viewtampilpelanggan.php', 29)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp-2\\htdocs\\ci4go\\app\\Views\\viewtampilpelanggan.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('viewtampilpelanggan', [], true)
+ 5 APPPATH\Controllers\Pelanggan.php(40): view('viewtampilpelanggan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Pelanggan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pelanggan))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-08 18:53:27 --> Undefined property: CodeIgniter\View\View::$request
+in APPPATH\Views\viewtampilpelanggan.php on line 29.
+ 1 APPPATH\Views\viewtampilpelanggan.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$request', 'C:\\xampp-2\\htdocs\\ci4go\\app\\Views\\viewtampilpelanggan.php', 29)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp-2\\htdocs\\ci4go\\app\\Views\\viewtampilpelanggan.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('viewtampilpelanggan', [], true)
+ 5 APPPATH\Controllers\Pelanggan.php(40): view('viewtampilpelanggan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Pelanggan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pelanggan))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-08 18:55:23 --> Undefined variable $request
+in APPPATH\Views\viewtampilpelanggan.php on line 29.
+ 1 APPPATH\Views\viewtampilpelanggan.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $request', 'C:\\xampp-2\\htdocs\\ci4go\\app\\Views\\viewtampilpelanggan.php', 29)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp-2\\htdocs\\ci4go\\app\\Views\\viewtampilpelanggan.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('viewtampilpelanggan', [...], true)
+ 5 APPPATH\Controllers\Pelanggan.php(40): view('viewtampilpelanggan', [...], [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Pelanggan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pelanggan))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-08 18:55:25 --> Undefined variable $request
+in APPPATH\Views\viewtampilpelanggan.php on line 29.
+ 1 APPPATH\Views\viewtampilpelanggan.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $request', 'C:\\xampp-2\\htdocs\\ci4go\\app\\Views\\viewtampilpelanggan.php', 29)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp-2\\htdocs\\ci4go\\app\\Views\\viewtampilpelanggan.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('viewtampilpelanggan', [...], true)
+ 5 APPPATH\Controllers\Pelanggan.php(40): view('viewtampilpelanggan', [...], [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Pelanggan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pelanggan))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-08 19:37:21 --> Undefined constant "id_pelanggan"
+in APPPATH\Views\viewtampilpelanggan.php on line 123.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('viewtampilpelanggan', [], true)
+ 4 APPPATH\Controllers\Pelanggan.php(41): view('viewtampilpelanggan', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Pelanggan->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pelanggan))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-08 20:42:36 --> Too few arguments to function App\Controllers\Pelanggan::edit(), 0 passed in C:\xampp-2\htdocs\ci4go\system\CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH\Controllers\Pelanggan.php on line 43.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Pelanggan->edit()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pelanggan))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-08 20:42:36 --> Too few arguments to function App\Controllers\Pelanggan::edit(), 0 passed in C:\xampp-2\htdocs\ci4go\system\CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH\Controllers\Pelanggan.php on line 43.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Pelanggan->edit()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pelanggan))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-08 20:48:25 --> Too few arguments to function App\Controllers\Pelanggan::edit(), 0 passed in C:\xampp-2\htdocs\ci4go\system\CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH\Controllers\Pelanggan.php on line 43.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Pelanggan->edit()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pelanggan))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-08 20:48:25 --> Too few arguments to function App\Controllers\Pelanggan::edit(), 0 passed in C:\xampp-2\htdocs\ci4go\system\CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH\Controllers\Pelanggan.php on line 43.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Pelanggan->edit()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pelanggan))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-08 20:48:25 --> Too few arguments to function App\Controllers\Pelanggan::edit(), 0 passed in C:\xampp-2\htdocs\ci4go\system\CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH\Controllers\Pelanggan.php on line 43.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Pelanggan->edit()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pelanggan))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-08 20:48:25 --> Too few arguments to function App\Controllers\Pelanggan::edit(), 0 passed in C:\xampp-2\htdocs\ci4go\system\CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH\Controllers\Pelanggan.php on line 43.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Pelanggan->edit()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pelanggan))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-08 20:48:39 --> Too few arguments to function App\Controllers\Pelanggan::edit(), 0 passed in C:\xampp-2\htdocs\ci4go\system\CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH\Controllers\Pelanggan.php on line 43.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Pelanggan->edit()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pelanggan))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-08 22:54:06 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 ROOTPATH\spark(83): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-06-08 23:01:34 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 ROOTPATH\spark(83): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-06-08 23:01:52 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 ROOTPATH\spark(83): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-06-08 23:02:51 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 ROOTPATH\spark(83): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-06-08 23:10:01 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 ROOTPATH\spark(83): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-06-08 23:10:12 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 ROOTPATH\spark(83): CodeIgniter\CodeIgniter->initialize()
